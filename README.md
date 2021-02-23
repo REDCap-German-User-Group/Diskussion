@@ -1,4 +1,4 @@
-# Diskussion
+# Diskussion und FAQ
 Allgemeine Diskussion und Fragen zu REDCap
 
 ## Wie funktioniert die Diskussion hier auf GitHub?
@@ -13,3 +13,7 @@ Allgemeine Diskussion und Fragen zu REDCap
 1. Text eintippen.
 1. Label zuweisen (hilfreich, um Fragen/Beiträge zu Themen/Schlagworten zuzuordnen).
 1. **Submit new issue** klicken, um den Beitrag zu posten.
+
+## FAQ - Frequently Asked Questions
+
+In diesem Bereich werden bereits beantwortete Fragen vorgehalten, die für _FAQ-worthy_ gehalten wurden.
